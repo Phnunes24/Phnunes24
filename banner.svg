@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 320" width="1280" height="320" role="img" aria-label="Pedro Nunes, QA e automação de testes">
+  <defs>
+    <linearGradient id="fundo" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0B1220"/>
+      <stop offset="55%" stop-color="#101E2E"/>
+      <stop offset="100%" stop-color="#0D2A33"/>
+    </linearGradient>
+    <linearGradient id="acento" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#22D3A8"/>
+      <stop offset="100%" stop-color="#2F81F7"/>
+    </linearGradient>
+    <linearGradient id="base" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#22D3A8"/>
+      <stop offset="50%" stop-color="#2F81F7"/>
+      <stop offset="100%" stop-color="#0D2A33"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1280" height="320" fill="url(#fundo)"/>
+
+  <circle cx="1180" cy="40" r="180" fill="#2F81F7" opacity="0.05"/>
+  <circle cx="1010" cy="300" r="140" fill="#22D3A8" opacity="0.04"/>
+
+  <rect x="64" y="92" width="5" height="150" rx="2.5" fill="url(#acento)"/>
+
+  <text x="100" y="150" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="66" font-weight="700" fill="#FFFFFF" letter-spacing="-1">Pedro Nunes</text>
+  <text x="103" y="196" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="27" font-weight="400" fill="#9FB0C4">QA e automação de testes</text>
+  <text x="103" y="234" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="19" font-weight="400" fill="#5F7286">Matterhorn, criação e reformulação de sites</text>
+
+  <g opacity="0.9">
+    <rect x="830" y="96" width="360" height="46" rx="9" fill="#FFFFFF" fill-opacity="0.045" stroke="#FFFFFF" stroke-opacity="0.09"/>
+    <circle cx="858" cy="119" r="11" fill="#22D3A8" fill-opacity="0.16"/>
+    <path d="M853 119 l4 4 l8 -9" fill="none" stroke="#22D3A8" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="882" y="112" width="200" height="6" rx="3" fill="#FFFFFF" fill-opacity="0.17"/>
+    <rect x="882" y="124" width="124" height="6" rx="3" fill="#FFFFFF" fill-opacity="0.09"/>
+
+    <rect x="830" y="156" width="360" height="46" rx="9" fill="#FFFFFF" fill-opacity="0.045" stroke="#FFFFFF" stroke-opacity="0.09"/>
+    <circle cx="858" cy="179" r="11" fill="#22D3A8" fill-opacity="0.16"/>
+    <path d="M853 179 l4 4 l8 -9" fill="none" stroke="#22D3A8" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="882" y="172" width="168" height="6" rx="3" fill="#FFFFFF" fill-opacity="0.17"/>
+    <rect x="882" y="184" width="222" height="6" rx="3" fill="#FFFFFF" fill-opacity="0.09"/>
+
+    <rect x="830" y="216" width="360" height="46" rx="9" fill="#FFFFFF" fill-opacity="0.045" stroke="#FFFFFF" stroke-opacity="0.09"/>
+    <circle cx="858" cy="239" r="11" fill="#2F81F7" fill-opacity="0.16"/>
+    <path d="M853 239 l4 4 l8 -9" fill="none" stroke="#2F81F7" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="882" y="232" width="232" height="6" rx="3" fill="#FFFFFF" fill-opacity="0.17"/>
+    <rect x="882" y="244" width="96" height="6" rx="3" fill="#FFFFFF" fill-opacity="0.09"/>
+  </g>
+
+  <rect x="0" y="314" width="1280" height="6" fill="url(#base)"/>
+</svg>

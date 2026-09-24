@@ -1,7 +1,5 @@
-<h1 align="center">Pedro Nunes</h1>
-
 <p align="center">
-  QA e automação de testes. Também construo e reformulo sites.
+  <img src="banner.svg" alt="Pedro Nunes, QA e automação de testes. Matterhorn, criação e reformulação de sites." width="100%">
 </p>
 
 <p align="center">
