@@ -50,3 +50,4 @@ Sites animados costumam ignorar quem não pode ou não quer ver animação. Nos 
 
 - Site da Matterhorn: [matterhorn-site.vercel.app](https://matterhorn-site.vercel.app/)
 - Email: phnunesramos@gmail.com
+- Linkedin: https://www.linkedin.com/in/pedro-henrique-nunes-ramos/
